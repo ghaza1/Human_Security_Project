@@ -102,9 +102,6 @@ Follow these instructions to get the project up and running on your local machin
     * If you are a **Viewer**, you will only see the lists.
 4.  **Logout:** Click "Logout" in the top right to end your session securely.
 
-## ? Screenshots
-
-*(Add screenshots of your Landing Page and Dashboard here)*
 
 ---
 
